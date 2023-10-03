@@ -54,10 +54,10 @@ export default function AddProduct() {
 
       <div className="modal">
         <div className="modal-box">
-          <h3 className="font-bold text-lg">Add New Product</h3>
+          <h3 className="font-bold text-lg">Tambahkan Nama Customer</h3>
           <form onSubmit={handleSubmit}>
             <div className="form-control">
-              <label className="label font-bold">Title</label>
+              <label className="label font-bold">Nama Customer</label>
               <input
                 type="text"
                 value={namaCustomer}

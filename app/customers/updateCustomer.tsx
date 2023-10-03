@@ -61,7 +61,7 @@ export default function UpdateCustomer(customer: Customer) {
           <h3 className="font-bold text-lg">Edit {customer.namaCustomer}</h3>
           <form onSubmit={handleUpdate}>
             <div className="form-control">
-              <label className="label font-bold">Title</label>
+              <label className="label font-bold">Nama Customer</label>
               <input
                 type="text"
                 value={namaCustomer}
