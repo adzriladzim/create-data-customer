@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "namaCustomer": "Adzril",
+      "kendala": "Kipas Bunyi"
+    },
+    {
+      "id": 2,
+      "namaCustomer": "Adzril",
+      "kendala": "Motherboard pecah"
+    },
+    {
+      "id": 3,
+      "namaCustomer": "Daffa",
+      "kendala": "Kipas ga berfungsi"
+    },
+    {
+      "namaCustomer": "Zim",
+      "kendala": "Cpu mati",
+      "id": 5
+    }
+  ]
+}
