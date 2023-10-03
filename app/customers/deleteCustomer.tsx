@@ -48,7 +48,7 @@ export default function DeleteCustomer(customer: Customer) {
       <div className="modal">
         <div className="modal-box">
           <h3 className="font-bold text-lg">
-            Are sure to delete {customer.namaCustomer} ?
+            Are u sure to delete {customer.namaCustomer} ?
           </h3>
           <div className="modal-action">
             <button type="button" className="btn" onClick={handleChange}>

@@ -71,7 +71,7 @@ export default function UpdateCustomer(customer: Customer) {
               />
             </div>
             <div className="form-control">
-              <label className="label font-bold">kendala</label>
+              <label className="label font-bold">Kendala</label>
               <input
                 type="text"
                 value={kendala}

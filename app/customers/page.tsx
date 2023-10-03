@@ -2,9 +2,9 @@ import AddCustomer from "./addCustomer";
 import DeleteCustomer from "./deleteCustomer";
 import UpdateCustomer from "./updateCustomer";
 
-// export const metadata = {
-//   title: "Product List",
-// };
+export const metadata = {
+  title: "Customer List",
+};
 
 type Customer = {
   id: number;
